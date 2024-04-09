@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
 <h3 align="center">A passionate web developer and a competitive programmer from India</h3>
+<img align="right" alt="Coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fmstudies.org%2F%3Fo%3Dhappy-art-gif-by-scaler-find-share-on-giphy-pp-MpdKwPSD&psig=AOvVaw27QHFi56EfnU7eKFRWbLMj&ust=1712733193210000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiW4b_KtIUDFQAAAAAdAAAAABAQ"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-g04&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-g04" /> </p>
 
